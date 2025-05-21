@@ -16,7 +16,7 @@ public class LargeInArray {
                 max=arr[i];
             }
         }
-        System.out.println("the minium value in the array is "+max);
+        System.out.println("the maximum value in the array is "+max);
         sc.close();
 
     }
